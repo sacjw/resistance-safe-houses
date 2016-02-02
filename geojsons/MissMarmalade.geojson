@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        " Name": "Miss Marmalade",
+        "Address:": "126 Union St, Brunswick VIC 3056",
+        "Review": "Delicious hotcakes",
+        "Contributer": "Catherine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.952897131443,
+          -37.77316352996294
+        ]
+      }
+    }
+  ]
+}
